@@ -1,0 +1,65 @@
+Manifest-Version: 1.0
+Built-By: hechun
+Class-Path: . lib/spring-cloud-starter-2.0.2.RELEASE.jar lib/spring-bo
+ ot-starter-2.0.2.RELEASE.jar lib/spring-boot-2.0.2.RELEASE.jar lib/sp
+ ring-boot-autoconfigure-2.0.2.RELEASE.jar lib/javax.annotation-api-1.
+ 3.2.jar lib/snakeyaml-1.19.jar lib/spring-cloud-context-2.0.2.RELEASE
+ .jar lib/spring-security-crypto-5.0.5.RELEASE.jar lib/spring-cloud-co
+ mmons-2.0.2.RELEASE.jar lib/spring-security-rsa-1.0.7.RELEASE.jar lib
+ /bcpkix-jdk15on-1.60.jar lib/bcprov-jdk15on-1.60.jar lib/spring-cloud
+ -starter-eureka-server-1.4.6.RELEASE.jar lib/spring-cloud-starter-net
+ flix-eureka-server-2.0.2.RELEASE.jar lib/spring-cloud-netflix-eureka-
+ server-2.0.2.RELEASE.jar lib/spring-boot-starter-actuator-2.0.2.RELEA
+ SE.jar lib/spring-boot-actuator-autoconfigure-2.0.2.RELEASE.jar lib/s
+ pring-boot-actuator-2.0.2.RELEASE.jar lib/micrometer-core-1.0.4.jar l
+ ib/HdrHistogram-2.1.10.jar lib/LatencyUtils-2.0.3.jar lib/spring-boot
+ -starter-freemarker-2.0.2.RELEASE.jar lib/freemarker-2.3.28.jar lib/s
+ pring-context-support-5.0.6.RELEASE.jar lib/spring-cloud-netflix-core
+ -2.0.2.RELEASE.jar lib/spring-boot-starter-aop-2.0.2.RELEASE.jar lib/
+ aspectjweaver-1.8.13.jar lib/spring-cloud-netflix-eureka-client-2.0.2
+ .RELEASE.jar lib/eureka-client-1.9.3.jar lib/jettison-1.3.7.jar lib/s
+ tax-api-1.0.1.jar lib/netflix-eventbus-0.3.0.jar lib/netflix-infix-0.
+ 3.0.jar lib/commons-jxpath-1.3.jar lib/joda-time-2.9.9.jar lib/antlr-
+ runtime-3.4.jar lib/stringtemplate-3.2.1.jar lib/antlr-2.7.7.jar lib/
+ gson-2.8.4.jar lib/commons-math-2.2.jar lib/jsr311-api-1.1.1.jar lib/
+ servo-core-0.12.21.jar lib/jersey-core-1.19.1.jar lib/jersey-client-1
+ .19.1.jar lib/jersey-apache-client4-1.19.1.jar lib/httpclient-4.5.5.j
+ ar lib/httpcore-4.4.9.jar lib/commons-codec-1.11.jar lib/guice-4.1.0.
+ jar lib/aopalliance-1.0.jar lib/compactmap-1.2.1.jar lib/dexx-collect
+ ions-0.2.jar lib/jersey-servlet-1.19.1.jar lib/jersey-server-1.19.1.j
+ ar lib/eureka-core-1.9.3.jar lib/woodstox-core-asl-4.4.1.jar lib/stax
+ -api-1.0-2.jar lib/archaius-core-0.7.6.jar lib/jsr305-3.0.1.jar lib/g
+ uava-16.0.jar lib/javax.inject-1.jar lib/jackson-dataformat-xml-2.9.5
+ .jar lib/jackson-module-jaxb-annotations-2.9.5.jar lib/stax2-api-3.1.
+ 4.jar lib/woodstox-core-5.0.3.jar lib/xstream-1.4.10.jar lib/xmlpull-
+ 1.1.3.1.jar lib/xpp3_min-1.1.4c.jar lib/spring-cloud-starter-netflix-
+ archaius-2.0.2.RELEASE.jar lib/spring-cloud-netflix-ribbon-2.0.2.RELE
+ ASE.jar lib/spring-cloud-netflix-archaius-2.0.2.RELEASE.jar lib/commo
+ ns-configuration-1.8.jar lib/commons-lang-2.6.jar lib/spring-cloud-st
+ arter-netflix-ribbon-2.0.2.RELEASE.jar lib/ribbon-2.2.5.jar lib/ribbo
+ n-transport-2.2.5.jar lib/rxnetty-contexts-0.4.9.jar lib/rxnetty-serv
+ o-0.4.9.jar lib/hystrix-core-1.5.12.jar lib/rxnetty-0.4.9.jar lib/rib
+ bon-core-2.2.5.jar lib/ribbon-httpclient-2.2.5.jar lib/commons-collec
+ tions-3.2.2.jar lib/netflix-commons-util-0.3.0.jar lib/ribbon-loadbal
+ ancer-2.2.5.jar lib/netflix-statistics-0.1.1.jar lib/rxjava-1.3.8.jar
+  lib/ribbon-eureka-2.2.5.jar lib/slf4j-api-1.7.25.jar lib/spring-core
+ -5.0.6.RELEASE.jar lib/spring-jcl-5.0.6.RELEASE.jar lib/spring-boot-s
+ tarter-web-2.0.2.RELEASE.jar lib/spring-boot-starter-json-2.0.2.RELEA
+ SE.jar lib/jackson-databind-2.9.5.jar lib/jackson-annotations-2.9.0.j
+ ar lib/jackson-core-2.9.5.jar lib/jackson-datatype-jdk8-2.9.5.jar lib
+ /jackson-datatype-jsr310-2.9.5.jar lib/jackson-module-parameter-names
+ -2.9.5.jar lib/spring-boot-starter-tomcat-2.0.2.RELEASE.jar lib/tomca
+ t-embed-core-8.5.31.jar lib/tomcat-embed-el-8.5.31.jar lib/tomcat-emb
+ ed-websocket-8.5.31.jar lib/hibernate-validator-6.0.9.Final.jar lib/v
+ alidation-api-2.0.1.Final.jar lib/jboss-logging-3.3.2.Final.jar lib/c
+ lassmate-1.3.4.jar lib/spring-web-5.0.6.RELEASE.jar lib/spring-beans-
+ 5.0.6.RELEASE.jar lib/spring-webmvc-5.0.6.RELEASE.jar lib/spring-aop-
+ 5.0.6.RELEASE.jar lib/spring-context-5.0.6.RELEASE.jar lib/spring-exp
+ ression-5.0.6.RELEASE.jar lib/spring-boot-starter-logging-2.0.2.RELEA
+ SE.jar lib/logback-classic-1.2.3.jar lib/logback-core-1.2.3.jar lib/l
+ og4j-to-slf4j-2.10.0.jar lib/log4j-api-2.10.0.jar lib/jul-to-slf4j-1.
+ 7.25.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: uestc.cd.sc.App
+
