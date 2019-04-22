@@ -1,0 +1,8 @@
+uestc\cd\sc\remote\IHelloRemote.class
+uestc\cd\sc\GatewayApp.class
+uestc\cd\sc\remote\IUserRemote.class
+uestc\cd\sc\rest\IHelloRestService.class
+uestc\cd\sc\dto\UserDTO.class
+uestc\cd\sc\rest\impl\HelloRestServiceImpl.class
+uestc\cd\sc\rest\impl\UserRestServiceImpl.class
+uestc\cd\sc\rest\IUserRestService.class
